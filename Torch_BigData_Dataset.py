@@ -133,9 +133,6 @@ def func2():
     print('duration for cache method is {}'.format(duration2))
     return loss_, duration2
 
-# func1()
 
 if __name__=='__main__':
     func1()
-
-a=1
